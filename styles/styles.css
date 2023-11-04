@@ -165,6 +165,7 @@ main {
     background-color: hsl(224, 30%, 27%);
     color: hsl(0, 0%, 100%);
     font-weight: bolder;
+    transition: background-color 0.3s;
   }
 
   button:hover {
@@ -318,6 +319,7 @@ main {
     background-color: hsl(224, 30%, 27%);
     color: hsl(0, 0%, 100%);
     font-weight: bolder;
+    transition: background-color 0.3s;
   }
 
   button:hover {
